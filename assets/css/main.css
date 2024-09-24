@@ -4000,7 +4000,7 @@ input, select, textarea {
 		  
 		  /* Position the "next button" to the right */
 		  .next { 
-			right: -200px;
+			right: -750px;
 			position: relative;
 			top: -220px;
 		    border-radius: 3px 0 0 3px;
